@@ -1,0 +1,20 @@
+*********************Candy Shop*******************
+Time: 3:35:32 PM	Date: 2023-02-09
+OrderNo: 104		CustID: 111004
+******************************************************
+Qty: Item Name:        	   Price(in Ryials)
+1. Gummi Pizza Candy	   1.50 Riyals
+1. StarBurst Gum	   4.50 Riyals
+1. Ring Pop		   1.00 Riyals
+1. Gummi HotDog Candy	   1.50 Riyals
+1. Bubble Gum	   2.99 Riyals
+1. Hubba Bubba Candy 	   2.75 Riyals
+1. Nerds Big Chewy	   4.50 Riyals
+
+******************************************************
+Tax: 		0.50
+Sales: 		0.00%
+sub Total: 		18.74
+Total: 		19.24
+
+*********************Thank You*********************

@@ -1,0 +1,18 @@
+*********************Candy Shop*******************
+Time: 3:36:42 PM	Date: 2023-02-09
+OrderNo: 105		CustID: 111002
+******************************************************
+Qty: Item Name:        	   Price(in Ryials)
+1. Peanut Butter 	   18.99 Riyals
+1. Raspberry 		   9.00 Riyals
+1. Razzles Candy	   14.99 Riyals
+1. Cotton Candy 	   18.99 Riyals
+4. Saudi Sandwich 	   8.00 Riyals
+
+******************************************************
+Tax: 		4.00
+Sales: 		20.00%
+sub Total: 		88.71
+Total: 		74.17
+
+*********************Thank You*********************

@@ -1,0 +1,18 @@
+*********************Candy Shop*******************
+Time: 3:15:14 PM	Date: 2023-02-09
+OrderNo: 100		CustID: 111001
+******************************************************
+Qty: Item Name:        	   Price(in Ryials)
+1. Hershey's Chocolate	   2.50 Riyals
+1. Panda  Cookies	   2.00 Riyals
+4. Boyer Mallo Cup	   6.00 Riyals
+4. Raspberry 		   36.00 Riyals
+2. Gummi HotDog Candy	   3.00 Riyals
+
+******************************************************
+Tax: 		2.00
+Sales: 		20.00%
+sub Total: 		49.50
+Total: 		41.20
+
+*********************Thank You*********************

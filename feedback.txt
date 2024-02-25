@@ -1,0 +1,20 @@
+Customer ID: 111005
+Order NO: 102
+Feedback: Thank you
+
+Customer ID: 111002
+Order NO: 105
+Feedback: Thank you for the discount :)
+
+Customer ID: 111007
+Order NO: 106
+Feedback: I love your shop, thank you
+
+Customer ID: 111008
+Order NO: 107
+Feedback: Please Deliver it cold, or I will return it thank you
+
+Customer ID: 111002
+Order NO: 108
+Feedback: Thanks
+
