@@ -7,5 +7,5 @@ creating personalized orders, and choosing delivery preferences with order track
 
 ##  Instrcation 
 Kindly before you run the code you should:
-  -add the attached jar file (rs2xml.jar)
-  -add the attached jar file (jcalender.jar) to display jDateChooser component
+  - add the attached jar file (rs2xml.jar)
+  - add the attached jar file (jcalender.jar) to display jDateChooser component
